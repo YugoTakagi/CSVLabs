@@ -1,5 +1,9 @@
-## CSVLabs
-This app is a web application.
+# CSVLabs
+
+CSVLabs is a web application that plots graphs based on CSV files.
+This application is consisted of both Python and JavaScript code.
+Therefore, please set up the development environments for both.
+An overview image of this app is as follows:
 ![the overview image](https://github.com/YugoTakagi/CSVLabs/blob/main/images/overview.png)
 
 ## Create react-app
